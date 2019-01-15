@@ -1,9 +1,5 @@
 package com.h.jamil.api.common.netflix.eureka;
 
-/**
- * Created by Krit Sudduen on 12/20/2016.
- */
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
