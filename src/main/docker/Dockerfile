@@ -1,4 +1,4 @@
-FROM artfactop:18081/java:8u45
+FROM develar/java:8u45
 VOLUME /tmp
 ADD startup.sh /
 ADD *.jar /
