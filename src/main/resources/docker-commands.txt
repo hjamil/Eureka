@@ -1,0 +1,2 @@
+docker run --name=discovery --network=my-custom-net -d -p 8761:8761 cce47674a25f
+docker logs discovery
