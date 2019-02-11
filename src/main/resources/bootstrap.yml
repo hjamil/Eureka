@@ -3,4 +3,4 @@ spring:
     name: api-framework-netflix-eureka
   cloud:
     config:
-      uri: http://localhost:1150
+      uri: http://config-server:8888

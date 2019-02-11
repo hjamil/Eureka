@@ -1,2 +1,2 @@
-docker run --name=discovery --network=my-custom-net -d -p 8761:8761 cce47674a25f
+docker run --name=discovery --network=my-custom-net -d -p 8761:8761 29fb292fa02b
 docker logs discovery
